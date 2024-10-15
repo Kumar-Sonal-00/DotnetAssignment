@@ -1,0 +1,69 @@
+<!-- Label to display any error messages -->
+<!-- <label class="error-message">{{ errMessage }}</label> -->
+
+<!-- Expansion panel to add new notes -->
+
+
+
+
+
+
+<!-- Load and display the collection of notes from server as Material Cards with card title set to note title and card content set to note text  -->
+<!-- <div class="keep-c-expansion-panel-wrapper">
+    <mat-expansion-panel *ngFor="let note of notes">
+      <mat-expansion-panel-header>
+        <mat-panel-title>{{note.title}}</mat-panel-title>
+      </mat-expansion-panel-header>
+      <p>{{note.text}}</p>
+    </mat-expansion-panel>
+  </div>
+   -->
+
+
+   <!-- dashboard.html -->
+<div class="keep-c-expansion-panel-wrapper">
+    <!-- Wrapper for note taker -->
+    <div class="keep-c-note-taker-wrapper">
+      <!-- Content for adding new notes or features can go here -->
+      <h2>Notes Dashboard</h2>
+      <!-- For example, a form to add a new note could be included -->
+      <form>
+        <label for="noteTitle">Title:</label>
+        <input type="text" id="noteTitle" name="noteTitle" placeholder="Enter note title">
+  
+        <label for="noteContent">Content:</label>
+        <textarea id="noteContent" name="noteContent" placeholder="Enter note content"></textarea>
+  
+        <button type="submit">Add Note</button>
+      </form>
+    </div>
+  
+    <!-- Wrapper for done button or actions -->
+    <div class="keep-c-done-wrapper">
+      <button>Done</button>
+    </div>
+  
+    <!-- Container for displaying notes -->
+    <div class="keep-c-note-container">
+      <!-- Note item example -->
+      <div class="keep-c-note">
+        <div class="note-header">
+          <h3>Note Title 1</h3>
+        </div>
+        <div class="note-body">
+          <p>Note content goes here.</p>
+        </div>
+      </div>
+  
+      <!-- Add more note items as needed -->
+      <div class="keep-c-note">
+        <div class="note-header">
+          <h3>Note Title 2</h3>
+        </div>
+        <div class="note-body">
+          <p>More note content here.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+  

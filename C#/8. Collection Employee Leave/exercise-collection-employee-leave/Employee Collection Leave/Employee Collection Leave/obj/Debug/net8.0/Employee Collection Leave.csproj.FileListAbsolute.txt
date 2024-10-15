@@ -1,0 +1,14 @@
+C:\Assignments\Collection Employee Leave\exercise-collection-employee-leave\Employee Collection Leave\Employee Collection Leave\bin\Debug\net8.0\Employee Collection Leave.exe
+C:\Assignments\Collection Employee Leave\exercise-collection-employee-leave\Employee Collection Leave\Employee Collection Leave\bin\Debug\net8.0\Employee Collection Leave.deps.json
+C:\Assignments\Collection Employee Leave\exercise-collection-employee-leave\Employee Collection Leave\Employee Collection Leave\bin\Debug\net8.0\Employee Collection Leave.runtimeconfig.json
+C:\Assignments\Collection Employee Leave\exercise-collection-employee-leave\Employee Collection Leave\Employee Collection Leave\bin\Debug\net8.0\Employee Collection Leave.dll
+C:\Assignments\Collection Employee Leave\exercise-collection-employee-leave\Employee Collection Leave\Employee Collection Leave\bin\Debug\net8.0\Employee Collection Leave.pdb
+C:\Assignments\Collection Employee Leave\exercise-collection-employee-leave\Employee Collection Leave\Employee Collection Leave\obj\Debug\net8.0\Employee Collection Leave.GeneratedMSBuildEditorConfig.editorconfig
+C:\Assignments\Collection Employee Leave\exercise-collection-employee-leave\Employee Collection Leave\Employee Collection Leave\obj\Debug\net8.0\Employee Collection Leave.AssemblyInfoInputs.cache
+C:\Assignments\Collection Employee Leave\exercise-collection-employee-leave\Employee Collection Leave\Employee Collection Leave\obj\Debug\net8.0\Employee Collection Leave.AssemblyInfo.cs
+C:\Assignments\Collection Employee Leave\exercise-collection-employee-leave\Employee Collection Leave\Employee Collection Leave\obj\Debug\net8.0\Employee Collection Leave.csproj.CoreCompileInputs.cache
+C:\Assignments\Collection Employee Leave\exercise-collection-employee-leave\Employee Collection Leave\Employee Collection Leave\obj\Debug\net8.0\Employee Collection Leave.dll
+C:\Assignments\Collection Employee Leave\exercise-collection-employee-leave\Employee Collection Leave\Employee Collection Leave\obj\Debug\net8.0\refint\Employee Collection Leave.dll
+C:\Assignments\Collection Employee Leave\exercise-collection-employee-leave\Employee Collection Leave\Employee Collection Leave\obj\Debug\net8.0\Employee Collection Leave.pdb
+C:\Assignments\Collection Employee Leave\exercise-collection-employee-leave\Employee Collection Leave\Employee Collection Leave\obj\Debug\net8.0\Employee Collection Leave.genruntimeconfig.cache
+C:\Assignments\Collection Employee Leave\exercise-collection-employee-leave\Employee Collection Leave\Employee Collection Leave\obj\Debug\net8.0\ref\Employee Collection Leave.dll

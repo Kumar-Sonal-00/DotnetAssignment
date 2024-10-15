@@ -1,0 +1,176 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header Styles */
+header {
+    background: linear-gradient(to right, #a00000, #ff4d4d);
+    color: #fff;
+}
+
+.banner {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    border-bottom: 30px solid #8c0000;
+}
+
+.logo img {
+    max-width: 200px;
+}
+
+.right-side {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.contact-details {
+    text-align: right;
+    margin-bottom: 10px;
+}
+
+.links {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 5px;
+}
+
+.links a {
+    color: #fff;
+    text-decoration: none;
+    margin-left: 20px;
+}
+
+.links a:hover {
+    color: #00ff00;
+}
+
+nav ul {
+    font-size: medium;
+    background-color: #8c0000;
+    list-style-type: none;
+    display: flex;
+    justify-content: flex-start;
+    padding-bottom: 30px;
+    margin: 0;
+}
+
+nav li {
+    margin: 0 5px;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    padding: 5px 10px;
+}
+
+nav a:hover {
+    color: #00ff00;
+}
+
+/* Main Content Styles */
+.content-wrapper {
+    display: flex;
+    justify-content: space-between;
+    margin: 40px;
+}
+
+.our-specialities {
+    flex: 2;
+    margin-right: 20px;
+}
+
+.our-specialities h2 {
+    color: #a00000;
+    text-align: center;
+}
+
+.gallery {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+}
+
+.gallery-item img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 5px;
+    transition: transform 0.3s;
+}
+
+.gallery-item img:hover {
+    transform: scale(1.1);
+}
+
+.gallery-item p {
+    text-align: center;
+    color: #a00000;
+    font-weight: bold;
+}
+
+/* Quick Menu Styles */
+.quick-menu {
+    flex: 0.8;
+    background-color: #ffffff;
+    color: #ef2828;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+.quick-menu h2 {
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.quick-menu ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.quick-menu li {
+    margin-bottom: 10px;
+}
+
+.quick-menu a {
+    color: #fff;
+    text-decoration: none;
+    display: block;
+    padding: 10px;
+    background-color: #8c0000;
+    border-radius: 5px;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.quick-menu a:hover {
+    background-color: #8c0000;
+    color: #00ff00;
+}
+
+/* Introduction Styles */
+.introduction {
+    padding: 30px;
+    background-color: #f4f4f4;
+    margin: 20px 20px;
+    border-radius: 5px;
+}
+
+.introduction h2 {
+    color: #a00000;
+    text-align: center;
+}
+
+/* Footer Styles */
+footer {
+    background-color: #a00000;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}

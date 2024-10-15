@@ -1,0 +1,92 @@
+Q1. Sum of element in array :
+
+Ans:
+	ArraySum(arr,n):
+	SET i=0
+	SET sum =0
+	WHILE (i<n):
+	  sum+= arr[i]
+	  SET i+=1
+	ENDWHILE
+	PRINT sum
+	END
+
+********************************************************
+
+Q2. Write an algorithm to search for an element in array:
+
+Ans:
+	ArraySearch(arr, N, element)
+	SET i=0 and flag = 0
+	WHILE(i<N):
+	  IF(arr[i] == element) THEN
+	    SET flag =1
+	    BREAK
+	  ENDIF
+	  SET i+=1
+	ENDWHILE
+	IF (flag ==1) THEN
+	  PRINT 'Element found'
+	ELSE 
+	  PRINT 'Element not found'
+	ENDIF
+	END
+
+********************************************************
+
+Q3. Write an algorithm to display the number of even and odd elements in an array.
+
+Ans: 
+
+	EvenOddCount(arr, N)
+	SET i=0, oddCount=0, evenCount=0
+	  WHILE (i < N)
+	    IF (arr[i] % 2 == 0) THEN
+            SET evenCount = evenCount + 1
+   	    ELSE
+            SET oddCount = oddCount + 1
+            ENDIF
+            SET i = i + 1
+	 ENDWHILE
+	 PRINT evenCount, oddCount
+	END
+
+********************************************************
+
+Q4. Write an algorithm to find the maximum among three numbers.
+
+Ans: 
+
+	Maximum Among Three Numbers:
+	Read three numbers n1, n2, n3
+	IF n1 > n2 AND n1 > n3 THEN
+  	  Write n1 is greater
+	ELSE-IF n2 > n3 THEN
+	  Write n2 is greater
+	ELSE
+          Write n3 is greater
+	END-IF
+	END
+
+********************************************************
+
+Q5. Write an algorithm to check whether the given number is a palindromic number or not.
+
+Ans :
+	Palindrome(number):
+	SET reverse = 0
+	SET temp = number
+	WHILE (number > 0):
+          SET lastDigit = number % 10
+          SET reverse = (reverse * 10) + lastDigit
+          SET number = number / 10
+        ENDWHILE
+
+        IF (temp = reverse) THEN
+          PRINT 'PALINDROME'
+        ELSE
+        PRINT 'NOT A PALINDROME'
+        ENDIF
+        END
+
+********************************************************	

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneNumberValidator", "PhoneNumberValidator\PhoneNumberValidator.csproj", "{82BF4C50-DE78-47C6-9389-0EE4E45D8F64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test\test.csproj", "{CB72E733-A422-4377-8284-6E02877C3059}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82BF4C50-DE78-47C6-9389-0EE4E45D8F64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82BF4C50-DE78-47C6-9389-0EE4E45D8F64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82BF4C50-DE78-47C6-9389-0EE4E45D8F64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82BF4C50-DE78-47C6-9389-0EE4E45D8F64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB72E733-A422-4377-8284-6E02877C3059}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB72E733-A422-4377-8284-6E02877C3059}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB72E733-A422-4377-8284-6E02877C3059}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB72E733-A422-4377-8284-6E02877C3059}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9DDA781-BE20-4C67-BFC5-F472DCD20412}
+	EndGlobalSection
+EndGlobal

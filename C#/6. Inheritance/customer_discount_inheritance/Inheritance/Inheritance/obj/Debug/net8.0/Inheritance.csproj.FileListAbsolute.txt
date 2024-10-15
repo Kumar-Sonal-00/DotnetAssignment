@@ -1,0 +1,14 @@
+C:\Assignments\Inheritance\customer_discount_inheritance\Inheritance\Inheritance\bin\Debug\net8.0\Inheritance.exe
+C:\Assignments\Inheritance\customer_discount_inheritance\Inheritance\Inheritance\bin\Debug\net8.0\Inheritance.deps.json
+C:\Assignments\Inheritance\customer_discount_inheritance\Inheritance\Inheritance\bin\Debug\net8.0\Inheritance.runtimeconfig.json
+C:\Assignments\Inheritance\customer_discount_inheritance\Inheritance\Inheritance\bin\Debug\net8.0\Inheritance.dll
+C:\Assignments\Inheritance\customer_discount_inheritance\Inheritance\Inheritance\bin\Debug\net8.0\Inheritance.pdb
+C:\Assignments\Inheritance\customer_discount_inheritance\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Assignments\Inheritance\customer_discount_inheritance\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.AssemblyInfoInputs.cache
+C:\Assignments\Inheritance\customer_discount_inheritance\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.AssemblyInfo.cs
+C:\Assignments\Inheritance\customer_discount_inheritance\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.csproj.CoreCompileInputs.cache
+C:\Assignments\Inheritance\customer_discount_inheritance\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.dll
+C:\Assignments\Inheritance\customer_discount_inheritance\Inheritance\Inheritance\obj\Debug\net8.0\refint\Inheritance.dll
+C:\Assignments\Inheritance\customer_discount_inheritance\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.pdb
+C:\Assignments\Inheritance\customer_discount_inheritance\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.genruntimeconfig.cache
+C:\Assignments\Inheritance\customer_discount_inheritance\Inheritance\Inheritance\obj\Debug\net8.0\ref\Inheritance.dll

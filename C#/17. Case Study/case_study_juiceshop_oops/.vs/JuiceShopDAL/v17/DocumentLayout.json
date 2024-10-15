@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Test\\Juice\\case_study_juiceshop_oops\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A35D3385-E049-494D-BC11-20DC6C47E48E}|JuiceShopBusinessManager\\JuiceShopBusinessManager.csproj|d:\\test\\juice\\case_study_juiceshop_oops\\juiceshopbusinessmanager\\juiceshopmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A35D3385-E049-494D-BC11-20DC6C47E48E}|JuiceShopBusinessManager\\JuiceShopBusinessManager.csproj|solutionrelative:juiceshopbusinessmanager\\juiceshopmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE88F4C-880D-4446-AFB1-084506641260}|JuiceShopClient\\JuiceShopClient.csproj|D:\\Test\\Juice\\case_study_juiceshop_oops\\juiceshopclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDE88F4C-880D-4446-AFB1-084506641260}|JuiceShopClient\\JuiceShopClient.csproj|solutionrelative:juiceshopclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E25C543-D1ED-4CF9-AA75-DE06AD311AF3}|JuiceShopExceptions\\JuiceShopExceptions.csproj|D:\\Test\\Juice\\case_study_juiceshop_oops\\juiceshopexceptions\\juiceid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E25C543-D1ED-4CF9-AA75-DE06AD311AF3}|JuiceShopExceptions\\JuiceShopExceptions.csproj|solutionrelative:juiceshopexceptions\\juiceid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87CD4726-E221-45E0-9D00-5389717D1954}|JuiceShopDAL\\JuiceShopDAL.csproj|D:\\Test\\Juice\\case_study_juiceshop_oops\\juiceshopdal\\juiceshopdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87CD4726-E221-45E0-9D00-5389717D1954}|JuiceShopDAL\\JuiceShopDAL.csproj|solutionrelative:juiceshopdal\\juiceshopdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{107CCB9D-2B15-40B3-9AB4-9102952F348D}|JuiceShopEntities\\JuiceShopEntities.csproj|d:\\test\\juice\\case_study_juiceshop_oops\\juiceshopentities\\juice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{107CCB9D-2B15-40B3-9AB4-9102952F348D}|JuiceShopEntities\\JuiceShopEntities.csproj|solutionrelative:juiceshopentities\\juice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JuiceShopManager.cs",
+              "DocumentMoniker": "D:\\Test\\Juice\\case_study_juiceshop_oops\\JuiceShopBusinessManager\\JuiceShopManager.cs",
+              "RelativeDocumentMoniker": "JuiceShopBusinessManager\\JuiceShopManager.cs",
+              "ToolTip": "D:\\Test\\Juice\\case_study_juiceshop_oops\\JuiceShopBusinessManager\\JuiceShopManager.cs",
+              "RelativeToolTip": "JuiceShopBusinessManager\\JuiceShopManager.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAAEQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T18:29:03.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Test\\Juice\\case_study_juiceshop_oops\\JuiceShopClient\\Program.cs",
+              "RelativeDocumentMoniker": "JuiceShopClient\\Program.cs",
+              "ToolTip": "D:\\Test\\Juice\\case_study_juiceshop_oops\\JuiceShopClient\\Program.cs",
+              "RelativeToolTip": "JuiceShopClient\\Program.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAACYAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T12:18:22.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JuiceId.cs",
+              "DocumentMoniker": "D:\\Test\\Juice\\case_study_juiceshop_oops\\JuiceShopExceptions\\JuiceId.cs",
+              "RelativeDocumentMoniker": "JuiceShopExceptions\\JuiceId.cs",
+              "ToolTip": "D:\\Test\\Juice\\case_study_juiceshop_oops\\JuiceShopExceptions\\JuiceId.cs",
+              "RelativeToolTip": "JuiceShopExceptions\\JuiceId.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T11:03:39.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Juice.cs",
+              "DocumentMoniker": "D:\\Test\\Juice\\case_study_juiceshop_oops\\JuiceShopEntities\\Juice.cs",
+              "RelativeDocumentMoniker": "JuiceShopEntities\\Juice.cs",
+              "ToolTip": "D:\\Test\\Juice\\case_study_juiceshop_oops\\JuiceShopEntities\\Juice.cs",
+              "RelativeToolTip": "JuiceShopEntities\\Juice.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAADoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T11:03:28.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JuiceShopDAL.cs",
+              "DocumentMoniker": "D:\\Test\\Juice\\case_study_juiceshop_oops\\JuiceShopDAL\\JuiceShopDAL.cs",
+              "RelativeDocumentMoniker": "JuiceShopDAL\\JuiceShopDAL.cs",
+              "ToolTip": "D:\\Test\\Juice\\case_study_juiceshop_oops\\JuiceShopDAL\\JuiceShopDAL.cs",
+              "RelativeToolTip": "JuiceShopDAL\\JuiceShopDAL.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAACMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T11:03:13.994Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+/* Global Styles */
+body {
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+/* Navbar */
+.navbar {
+  margin-bottom: 0; /* Remove margin below navbar */
+}
+
+/* Hero Unit */
+.hero-unit {
+  background: url('https://shorturl.at/WOGvi') no-repeat center center;
+  background-size: cover;
+  color: white;
+  padding: 100px 0; /* Reduced padding */
+  text-align: center;
+}
+
+.hero-unit h1 {
+  font-size: 3rem; /* Reduced font size */
+  font-weight: 700;
+}
+
+.hero-unit p {
+  font-size: 1.25rem; /* Reduced font size */
+}
+
+/* Main Content */
+#main-content {
+  background-color: #f0f4f8; /* Light blue-gray background for contrast */
+  padding: 1rem 0; /* Reduced padding */
+  margin-bottom: 1rem; /* Reduced margin */
+}
+
+#main-content h2 {
+  margin-bottom: 0.75rem; /* Reduced space below heading */
+  color: #2c3e50; /* Darker blue color for heading */
+}
+
+.card {
+  border: none; /* Removed border */
+  border-radius: 8px; /* Rounded corners for a modern look */
+  overflow: hidden;
+  background-color: #f7f9fc; /* Light blue background for cards */
+  transition: box-shadow 0.3s ease-in-out; /* Subtle shadow effect */
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card:hover {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15); /* Slightly increased shadow on hover */
+}
+
+.card-img-top {
+  height: 200px;
+  object-fit: cover;
+}
+
+.card-body {
+  padding: 0.75rem; /* Reduced padding */
+}
+
+.card-title {
+  font-size: 1.1rem; /* Slightly smaller font size */
+  color: #34495e; /* Darker text color */
+}
+
+.card-text {
+  color: #555; /* Gray color for text */
+}
+
+/* Testimonials */
+#testimonials {
+  background-color: #e9ecef; /* Light gray background for testimonials */
+  padding: 1rem 0; /* Reduced padding */
+}
+
+.testimonial {
+  background-color: #fff; /* White background for testimonials */
+  padding: 1rem; /* Reduced padding */
+  border-radius: 8px; /* Rounded corners for testimonials */
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow effect */
+  margin-bottom: 1rem; /* Reduced margin */
+}
+
+.testimonial-text {
+  font-style: italic;
+  margin-bottom: 0.5rem; /* Reduced margin */
+  color: #333; /* Darker text color */
+}
+
+.testimonial-author {
+  font-weight: bold;
+  color: #777; /* Gray color for author name */
+}
+
+/* Footer */
+.footer {
+  background-color: #2c3e50;
+  color: #fff;
+  padding: 1rem 0; /* Reduced padding */
+  text-align: center;
+}
+
+.footer p {
+  margin: 0;
+}
+
+.social-links a {
+  color: #fff;
+  margin: 0 0.5rem; /* Reduced margin */
+  transition: color 0.3s; /* Added transition for color change */
+}
+
+.social-links a:hover {
+  color: #f39c12; /* Changed hover color */
+}
+
+.site-links a {
+  color: #ccc; /* Light gray color for site links */
+  margin: 0 0.5rem; /* Reduced margin */
+}
+
+.site-links a:hover {
+  color: #f39c12; /* Changed hover color */
+}

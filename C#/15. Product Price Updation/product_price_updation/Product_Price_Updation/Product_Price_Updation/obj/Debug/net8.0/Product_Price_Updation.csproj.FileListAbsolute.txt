@@ -1,0 +1,14 @@
+C:\Assignments\Product Price Updation\product_price_updation\Product_Price_Updation\Product_Price_Updation\bin\Debug\net8.0\Product_Price_Updation.exe
+C:\Assignments\Product Price Updation\product_price_updation\Product_Price_Updation\Product_Price_Updation\bin\Debug\net8.0\Product_Price_Updation.deps.json
+C:\Assignments\Product Price Updation\product_price_updation\Product_Price_Updation\Product_Price_Updation\bin\Debug\net8.0\Product_Price_Updation.runtimeconfig.json
+C:\Assignments\Product Price Updation\product_price_updation\Product_Price_Updation\Product_Price_Updation\bin\Debug\net8.0\Product_Price_Updation.dll
+C:\Assignments\Product Price Updation\product_price_updation\Product_Price_Updation\Product_Price_Updation\bin\Debug\net8.0\Product_Price_Updation.pdb
+C:\Assignments\Product Price Updation\product_price_updation\Product_Price_Updation\Product_Price_Updation\obj\Debug\net8.0\Product_Price_Updation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Assignments\Product Price Updation\product_price_updation\Product_Price_Updation\Product_Price_Updation\obj\Debug\net8.0\Product_Price_Updation.AssemblyInfoInputs.cache
+C:\Assignments\Product Price Updation\product_price_updation\Product_Price_Updation\Product_Price_Updation\obj\Debug\net8.0\Product_Price_Updation.AssemblyInfo.cs
+C:\Assignments\Product Price Updation\product_price_updation\Product_Price_Updation\Product_Price_Updation\obj\Debug\net8.0\Product_Price_Updation.csproj.CoreCompileInputs.cache
+C:\Assignments\Product Price Updation\product_price_updation\Product_Price_Updation\Product_Price_Updation\obj\Debug\net8.0\Product_Price_Updation.dll
+C:\Assignments\Product Price Updation\product_price_updation\Product_Price_Updation\Product_Price_Updation\obj\Debug\net8.0\refint\Product_Price_Updation.dll
+C:\Assignments\Product Price Updation\product_price_updation\Product_Price_Updation\Product_Price_Updation\obj\Debug\net8.0\Product_Price_Updation.pdb
+C:\Assignments\Product Price Updation\product_price_updation\Product_Price_Updation\Product_Price_Updation\obj\Debug\net8.0\Product_Price_Updation.genruntimeconfig.cache
+C:\Assignments\Product Price Updation\product_price_updation\Product_Price_Updation\Product_Price_Updation\obj\Debug\net8.0\ref\Product_Price_Updation.dll

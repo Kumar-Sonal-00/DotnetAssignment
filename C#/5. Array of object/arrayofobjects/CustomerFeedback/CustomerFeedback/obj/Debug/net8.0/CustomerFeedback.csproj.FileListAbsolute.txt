@@ -1,0 +1,14 @@
+C:\Assignments\Array of objects Custmor Feedback\CustomerFeedback\CustomerFeedback\bin\Debug\net8.0\CustomerFeedback.exe
+C:\Assignments\Array of objects Custmor Feedback\CustomerFeedback\CustomerFeedback\bin\Debug\net8.0\CustomerFeedback.deps.json
+C:\Assignments\Array of objects Custmor Feedback\CustomerFeedback\CustomerFeedback\bin\Debug\net8.0\CustomerFeedback.runtimeconfig.json
+C:\Assignments\Array of objects Custmor Feedback\CustomerFeedback\CustomerFeedback\bin\Debug\net8.0\CustomerFeedback.dll
+C:\Assignments\Array of objects Custmor Feedback\CustomerFeedback\CustomerFeedback\bin\Debug\net8.0\CustomerFeedback.pdb
+C:\Assignments\Array of objects Custmor Feedback\CustomerFeedback\CustomerFeedback\obj\Debug\net8.0\CustomerFeedback.GeneratedMSBuildEditorConfig.editorconfig
+C:\Assignments\Array of objects Custmor Feedback\CustomerFeedback\CustomerFeedback\obj\Debug\net8.0\CustomerFeedback.AssemblyInfoInputs.cache
+C:\Assignments\Array of objects Custmor Feedback\CustomerFeedback\CustomerFeedback\obj\Debug\net8.0\CustomerFeedback.AssemblyInfo.cs
+C:\Assignments\Array of objects Custmor Feedback\CustomerFeedback\CustomerFeedback\obj\Debug\net8.0\CustomerFeedback.csproj.CoreCompileInputs.cache
+C:\Assignments\Array of objects Custmor Feedback\CustomerFeedback\CustomerFeedback\obj\Debug\net8.0\CustomerFeedback.dll
+C:\Assignments\Array of objects Custmor Feedback\CustomerFeedback\CustomerFeedback\obj\Debug\net8.0\refint\CustomerFeedback.dll
+C:\Assignments\Array of objects Custmor Feedback\CustomerFeedback\CustomerFeedback\obj\Debug\net8.0\CustomerFeedback.pdb
+C:\Assignments\Array of objects Custmor Feedback\CustomerFeedback\CustomerFeedback\obj\Debug\net8.0\CustomerFeedback.genruntimeconfig.cache
+C:\Assignments\Array of objects Custmor Feedback\CustomerFeedback\CustomerFeedback\obj\Debug\net8.0\ref\CustomerFeedback.dll

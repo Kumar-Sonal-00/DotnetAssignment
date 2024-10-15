@@ -1,0 +1,14 @@
+C:\Assignments\Credit Card Bill\CreditCardBill\CreditCardBill\bin\Debug\net8.0\CreditCardBill.exe
+C:\Assignments\Credit Card Bill\CreditCardBill\CreditCardBill\bin\Debug\net8.0\CreditCardBill.deps.json
+C:\Assignments\Credit Card Bill\CreditCardBill\CreditCardBill\bin\Debug\net8.0\CreditCardBill.runtimeconfig.json
+C:\Assignments\Credit Card Bill\CreditCardBill\CreditCardBill\bin\Debug\net8.0\CreditCardBill.dll
+C:\Assignments\Credit Card Bill\CreditCardBill\CreditCardBill\bin\Debug\net8.0\CreditCardBill.pdb
+C:\Assignments\Credit Card Bill\CreditCardBill\CreditCardBill\obj\Debug\net8.0\CreditCardBill.GeneratedMSBuildEditorConfig.editorconfig
+C:\Assignments\Credit Card Bill\CreditCardBill\CreditCardBill\obj\Debug\net8.0\CreditCardBill.AssemblyInfoInputs.cache
+C:\Assignments\Credit Card Bill\CreditCardBill\CreditCardBill\obj\Debug\net8.0\CreditCardBill.AssemblyInfo.cs
+C:\Assignments\Credit Card Bill\CreditCardBill\CreditCardBill\obj\Debug\net8.0\CreditCardBill.csproj.CoreCompileInputs.cache
+C:\Assignments\Credit Card Bill\CreditCardBill\CreditCardBill\obj\Debug\net8.0\CreditCardBill.dll
+C:\Assignments\Credit Card Bill\CreditCardBill\CreditCardBill\obj\Debug\net8.0\refint\CreditCardBill.dll
+C:\Assignments\Credit Card Bill\CreditCardBill\CreditCardBill\obj\Debug\net8.0\CreditCardBill.pdb
+C:\Assignments\Credit Card Bill\CreditCardBill\CreditCardBill\obj\Debug\net8.0\CreditCardBill.genruntimeconfig.cache
+C:\Assignments\Credit Card Bill\CreditCardBill\CreditCardBill\obj\Debug\net8.0\ref\CreditCardBill.dll

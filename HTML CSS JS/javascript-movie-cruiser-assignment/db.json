@@ -1,0 +1,21 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Hera Pheri",
+      "posterPath": "/Images/poster1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Hera Pheri 2",
+      "posterPath": "/images/poster1.jpg"
+    }
+  ],
+  "favourites": [
+    {
+      "id": 1,
+      "title": "Hera Pheri",
+      "posterPath": "/images/poster1.jpg"
+    }
+  ]
+}

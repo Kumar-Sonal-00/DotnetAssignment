@@ -1,0 +1,24 @@
+<div class="post-container">
+  <div class="post-page-title">
+    <h2>Angular Component Creation for Post Page</h2>
+  </div>
+  <!-- Center: Post title -->
+  <div class="post-title-center">
+    <h1>{{ title }}</h1>
+  </div>
+
+  <div class="post-content">
+    <!-- Left side: Post details -->
+    <div class="post-details-left">
+      <p><strong>Author:</strong> <span>{{ author }}</span></p>
+      <p><strong>Posted Date:</strong> <span>{{ postedDate }}</span></p>
+      <p><strong>Category:</strong> <span>{{ category }}</span></p>
+      <p><strong>Likes:</strong> <span>{{ likes }}</span></p>
+    </div>
+
+    <!-- Right side: Post image -->
+    <div class="post-image-right">
+      <img [src]="'https://shorturl.at/RJh97'" alt="{{ title }}" class="post-image">
+    </div>
+  </div>
+</div>

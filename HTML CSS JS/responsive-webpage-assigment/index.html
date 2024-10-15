@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Product Buying Site</title>
+  <!-- Bootstrap CSS -->
+  <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+  <!-- Font Awesome for icons -->
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet">
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+  <!-- Navbar -->
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <a class="navbar-brand" href="#">Product Site</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item"><a class="nav-link" href="#">Home</a></li>
+        <li class="nav-item"><a class="nav-link" href="#">Products</a></li>
+        <li class="nav-item"><a class="nav-link" href="#">About Us</a></li>
+        <li class="nav-item"><a class="nav-link" href="#">Contact</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <!-- Hero Unit (Jumbotron) -->
+  <header class="hero-unit text-white d-flex align-items-center">
+    <div class="overlay"></div>
+    <!-- Overlay for better text contrast -->
+    <div class="container text-center">
+      <h1 class="display-3">Welcome to Our Product Store</h1>
+      <p class="lead mt-3">Discover top-quality products at unbeatable prices!</p>
+      <a href="#" class="btn btn-primary btn-lg mt-4 animate__animated animate__bounce">Shop Now</a>
+    </div>
+  </header>
+
+  <!-- Main Content -->
+  <section id="main-content" class="container my-5">
+    <h2 class="text-center mb-4">Featured Products</h2>
+    <div class="row">
+      <div class="col-md-4">
+        <div class="card mb-4">
+          <img src="images/Camera.jpg" class="card-img-top" alt="Nikon Camera">
+          <div class="card-body">
+            <h5 class="card-title">Nikon Camera</h5>
+            <p class="card-text">Capture your memories in stunning detail with this high-performance Nikon camera perfect for any occasion.</p>
+            <a href="#" class="btn btn-primary">Buy Now</a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="card mb-4">
+          <img src="images/Headphone.jpg" class="card-img-top" alt="Shure Headphone">
+          <div class="card-body">
+            <h5 class="card-title">Shure Headphone</h5>
+            <p class="card-text">Experience unparalleled sound quality with the Shure headphones, perfect for any music lover.</p>
+            <a href="#" class="btn btn-primary">Buy Now</a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="card mb-4">
+          <img src="images/Laptop.jpg" class="card-img-top" alt="HP Laptop">
+          <div class="card-body">
+            <h5 class="card-title">HP Laptop</h5>
+            <p class="card-text">Boost your productivity with the HP laptop, featuring cutting-edge performance and sleek design.</p>
+            <a href="#" class="btn btn-primary">Buy Now</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Testimonials -->
+  <section id="testimonials" class="bg-light py-5">
+    <div class="container">
+      <h2 class="text-center mb-4">What Our Customers Say</h2>
+      <div class="row">
+        <div class="col-md-4">
+          <div class="testimonial bg-white p-4 rounded shadow-sm">
+            <p class="testimonial-text">"Excellent service and top-quality products! The Nikon camera I bought has exceeded my expectations."</p>
+            <p class="testimonial-author text-muted">- Jane Doe</p>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="testimonial bg-white p-4 rounded shadow-sm">
+            <p class="testimonial-text">"The Shure headphones are amazing! Great sound quality and comfort. Highly recommended."</p>
+            <p class="testimonial-author text-muted">- John Smith</p>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="testimonial bg-white p-4 rounded shadow-sm">
+            <p class="testimonial-text">"I’m very happy with my HP laptop. It’s fast, reliable, and perfect for my work needs."</p>
+            <p class="testimonial-author text-muted">- Emily Johnson</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="container text-center">
+      <p>© 2024 Product Site. All rights reserved.</p>
+      <div class="social-links">
+        <a href="#"><i class="fab fa-facebook-f"></i></a>
+        <a href="#"><i class="fab fa-twitter"></i></a>
+        <a href="#"><i class="fab fa-instagram"></i></a>
+      </div>
+      <div class="site-links mt-2">
+        <a href="#">Home</a> | <a href="#">Products</a> | <a href="#">About Us</a> | <a href="#">Contact</a>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Bootstrap JS and dependencies -->
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.5/dist/umd/popper.min.js"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+
+</html>

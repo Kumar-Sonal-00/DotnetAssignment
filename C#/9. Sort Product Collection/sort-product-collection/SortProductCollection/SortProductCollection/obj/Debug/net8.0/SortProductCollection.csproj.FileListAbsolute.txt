@@ -1,0 +1,14 @@
+C:\Assignments\Sort Product Collection\sort-product-collection\SortProductCollection\SortProductCollection\bin\Debug\net8.0\SortProductCollection.exe
+C:\Assignments\Sort Product Collection\sort-product-collection\SortProductCollection\SortProductCollection\bin\Debug\net8.0\SortProductCollection.deps.json
+C:\Assignments\Sort Product Collection\sort-product-collection\SortProductCollection\SortProductCollection\bin\Debug\net8.0\SortProductCollection.runtimeconfig.json
+C:\Assignments\Sort Product Collection\sort-product-collection\SortProductCollection\SortProductCollection\bin\Debug\net8.0\SortProductCollection.dll
+C:\Assignments\Sort Product Collection\sort-product-collection\SortProductCollection\SortProductCollection\bin\Debug\net8.0\SortProductCollection.pdb
+C:\Assignments\Sort Product Collection\sort-product-collection\SortProductCollection\SortProductCollection\obj\Debug\net8.0\SortProductCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Assignments\Sort Product Collection\sort-product-collection\SortProductCollection\SortProductCollection\obj\Debug\net8.0\SortProductCollection.AssemblyInfoInputs.cache
+C:\Assignments\Sort Product Collection\sort-product-collection\SortProductCollection\SortProductCollection\obj\Debug\net8.0\SortProductCollection.AssemblyInfo.cs
+C:\Assignments\Sort Product Collection\sort-product-collection\SortProductCollection\SortProductCollection\obj\Debug\net8.0\SortProductCollection.csproj.CoreCompileInputs.cache
+C:\Assignments\Sort Product Collection\sort-product-collection\SortProductCollection\SortProductCollection\obj\Debug\net8.0\SortProductCollection.dll
+C:\Assignments\Sort Product Collection\sort-product-collection\SortProductCollection\SortProductCollection\obj\Debug\net8.0\refint\SortProductCollection.dll
+C:\Assignments\Sort Product Collection\sort-product-collection\SortProductCollection\SortProductCollection\obj\Debug\net8.0\SortProductCollection.pdb
+C:\Assignments\Sort Product Collection\sort-product-collection\SortProductCollection\SortProductCollection\obj\Debug\net8.0\SortProductCollection.genruntimeconfig.cache
+C:\Assignments\Sort Product Collection\sort-product-collection\SortProductCollection\SortProductCollection\obj\Debug\net8.0\ref\SortProductCollection.dll

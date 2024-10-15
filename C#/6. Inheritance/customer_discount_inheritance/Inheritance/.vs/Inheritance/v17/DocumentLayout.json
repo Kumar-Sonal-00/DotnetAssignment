@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Assignments\\Inheritance\\customer_discount_inheritance\\Inheritance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2864B1ED-D562-4138-B276-CE74DDFABA16}|Inheritance\\Inheritance.csproj|c:\\assignments\\inheritance\\customer_discount_inheritance\\inheritance\\inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2864B1ED-D562-4138-B276-CE74DDFABA16}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2864B1ED-D562-4138-B276-CE74DDFABA16}|Inheritance\\Inheritance.csproj|c:\\assignments\\inheritance\\customer_discount_inheritance\\inheritance\\inheritance\\seniorcitizencustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2864B1ED-D562-4138-B276-CE74DDFABA16}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\seniorcitizencustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2864B1ED-D562-4138-B276-CE74DDFABA16}|Inheritance\\Inheritance.csproj|c:\\assignments\\inheritance\\customer_discount_inheritance\\inheritance\\inheritance\\privilegecustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2864B1ED-D562-4138-B276-CE74DDFABA16}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\privilegecustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2864B1ED-D562-4138-B276-CE74DDFABA16}|Inheritance\\Inheritance.csproj|c:\\assignments\\inheritance\\customer_discount_inheritance\\inheritance\\inheritance\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2864B1ED-D562-4138-B276-CE74DDFABA16}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SeniorCitizenCustomer.cs",
+              "DocumentMoniker": "C:\\Assignments\\Inheritance\\customer_discount_inheritance\\Inheritance\\Inheritance\\SeniorCitizenCustomer.cs",
+              "RelativeDocumentMoniker": "Inheritance\\SeniorCitizenCustomer.cs",
+              "ToolTip": "C:\\Assignments\\Inheritance\\customer_discount_inheritance\\Inheritance\\Inheritance\\SeniorCitizenCustomer.cs",
+              "RelativeToolTip": "Inheritance\\SeniorCitizenCustomer.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T06:50:18.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Assignments\\Inheritance\\customer_discount_inheritance\\Inheritance\\Inheritance\\Customer.cs",
+              "RelativeDocumentMoniker": "Inheritance\\Customer.cs",
+              "ToolTip": "C:\\Assignments\\Inheritance\\customer_discount_inheritance\\Inheritance\\Inheritance\\Customer.cs",
+              "RelativeToolTip": "Inheritance\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T06:39:04.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PrivilegeCustomer.cs",
+              "DocumentMoniker": "C:\\Assignments\\Inheritance\\customer_discount_inheritance\\Inheritance\\Inheritance\\PrivilegeCustomer.cs",
+              "RelativeDocumentMoniker": "Inheritance\\PrivilegeCustomer.cs",
+              "ToolTip": "C:\\Assignments\\Inheritance\\customer_discount_inheritance\\Inheritance\\Inheritance\\PrivilegeCustomer.cs",
+              "RelativeToolTip": "Inheritance\\PrivilegeCustomer.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T06:48:40.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Assignments\\Inheritance\\customer_discount_inheritance\\Inheritance\\Inheritance\\Program.cs",
+              "RelativeDocumentMoniker": "Inheritance\\Program.cs",
+              "ToolTip": "C:\\Assignments\\Inheritance\\customer_discount_inheritance\\Inheritance\\Inheritance\\Program.cs",
+              "RelativeToolTip": "Inheritance\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T06:35:33.728Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

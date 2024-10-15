@@ -1,0 +1,17 @@
+C:\Users\Administrator\Desktop\HtmlCssAndJS\JuiceShopDAL\JuiceShopEntities\bin\Debug\JuiceShopEntities.dll
+C:\Users\Administrator\Desktop\HtmlCssAndJS\JuiceShopDAL\JuiceShopEntities\bin\Debug\JuiceShopEntities.pdb
+C:\Users\Administrator\Desktop\HtmlCssAndJS\JuiceShopDAL\JuiceShopEntities\obj\Debug\JuiceShopEntities.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\HtmlCssAndJS\JuiceShopDAL\JuiceShopEntities\obj\Debug\JuiceShopEntities.dll
+C:\Users\Administrator\Desktop\HtmlCssAndJS\JuiceShopDAL\JuiceShopEntities\obj\Debug\JuiceShopEntities.pdb
+D:\RamDellLapData\Vendors\ITC_Dotnet\assgnments_juiceShop\Abinash-20577\JuiceShopEntities\bin\Debug\JuiceShopEntities.dll
+D:\RamDellLapData\Vendors\ITC_Dotnet\assgnments_juiceShop\Abinash-20577\JuiceShopEntities\bin\Debug\JuiceShopEntities.pdb
+D:\RamDellLapData\Vendors\ITC_Dotnet\assgnments_juiceShop\Abinash-20577\JuiceShopEntities\obj\Debug\JuiceShopEntities.csproj.AssemblyReference.cache
+D:\RamDellLapData\Vendors\ITC_Dotnet\assgnments_juiceShop\Abinash-20577\JuiceShopEntities\obj\Debug\JuiceShopEntities.csproj.CoreCompileInputs.cache
+D:\RamDellLapData\Vendors\ITC_Dotnet\assgnments_juiceShop\Abinash-20577\JuiceShopEntities\obj\Debug\JuiceShopEntities.dll
+D:\RamDellLapData\Vendors\ITC_Dotnet\assgnments_juiceShop\Abinash-20577\JuiceShopEntities\obj\Debug\JuiceShopEntities.pdb
+D:\Test\Juice\case_study_juiceshop_oops\JuiceShopEntities\bin\Debug\JuiceShopEntities.dll
+D:\Test\Juice\case_study_juiceshop_oops\JuiceShopEntities\bin\Debug\JuiceShopEntities.pdb
+D:\Test\Juice\case_study_juiceshop_oops\JuiceShopEntities\obj\Debug\JuiceShopEntities.csproj.AssemblyReference.cache
+D:\Test\Juice\case_study_juiceshop_oops\JuiceShopEntities\obj\Debug\JuiceShopEntities.csproj.CoreCompileInputs.cache
+D:\Test\Juice\case_study_juiceshop_oops\JuiceShopEntities\obj\Debug\JuiceShopEntities.dll
+D:\Test\Juice\case_study_juiceshop_oops\JuiceShopEntities\obj\Debug\JuiceShopEntities.pdb

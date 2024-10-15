@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Entities\Entities.csproj" />
+    <ProjectReference Include="..\Repositories\Repositories.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Entities">
+      <HintPath>..\..\..\2022\December\LMS\Assignment Version Change\exercise-product-management-file-io-module-master\exercise-product-management-file-io-module-master\Entities\bin\Debug\net6.0\Entities.dll</HintPath>
+    </Reference>
+    <Reference Include="Repositories">
+      <HintPath>..\Repositories\bin\Debug\net6.0\Repositories.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

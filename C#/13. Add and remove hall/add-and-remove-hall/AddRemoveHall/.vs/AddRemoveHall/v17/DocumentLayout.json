@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Assignments\\Add and remove hall\\add-and-remove-hall\\AddRemoveHall\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BAD404A1-0E08-4413-A778-B90A34C930A1}|AddRemoveHall\\AddRemoveHall.csproj|c:\\assignments\\add and remove hall\\add-and-remove-hall\\addremovehall\\addremovehall\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAD404A1-0E08-4413-A778-B90A34C930A1}|AddRemoveHall\\AddRemoveHall.csproj|solutionrelative:addremovehall\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAD404A1-0E08-4413-A778-B90A34C930A1}|AddRemoveHall\\AddRemoveHall.csproj|c:\\assignments\\add and remove hall\\add-and-remove-hall\\addremovehall\\addremovehall\\hall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAD404A1-0E08-4413-A778-B90A34C930A1}|AddRemoveHall\\AddRemoveHall.csproj|solutionrelative:addremovehall\\hall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAD404A1-0E08-4413-A778-B90A34C930A1}|AddRemoveHall\\AddRemoveHall.csproj|c:\\assignments\\add and remove hall\\add-and-remove-hall\\addremovehall\\addremovehall\\hallbo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAD404A1-0E08-4413-A778-B90A34C930A1}|AddRemoveHall\\AddRemoveHall.csproj|solutionrelative:addremovehall\\hallbo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HallBO.cs",
+              "DocumentMoniker": "C:\\Assignments\\Add and remove hall\\add-and-remove-hall\\AddRemoveHall\\AddRemoveHall\\HallBO.cs",
+              "RelativeDocumentMoniker": "AddRemoveHall\\HallBO.cs",
+              "ToolTip": "C:\\Assignments\\Add and remove hall\\add-and-remove-hall\\AddRemoveHall\\AddRemoveHall\\HallBO.cs",
+              "RelativeToolTip": "AddRemoveHall\\HallBO.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T11:07:28.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Hall.cs",
+              "DocumentMoniker": "C:\\Assignments\\Add and remove hall\\add-and-remove-hall\\AddRemoveHall\\AddRemoveHall\\Hall.cs",
+              "RelativeDocumentMoniker": "AddRemoveHall\\Hall.cs",
+              "ToolTip": "C:\\Assignments\\Add and remove hall\\add-and-remove-hall\\AddRemoveHall\\AddRemoveHall\\Hall.cs",
+              "RelativeToolTip": "AddRemoveHall\\Hall.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAC0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T11:04:07.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Assignments\\Add and remove hall\\add-and-remove-hall\\AddRemoveHall\\AddRemoveHall\\Program.cs",
+              "RelativeDocumentMoniker": "AddRemoveHall\\Program.cs",
+              "ToolTip": "C:\\Assignments\\Add and remove hall\\add-and-remove-hall\\AddRemoveHall\\AddRemoveHall\\Program.cs",
+              "RelativeToolTip": "AddRemoveHall\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T11:03:17.386Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

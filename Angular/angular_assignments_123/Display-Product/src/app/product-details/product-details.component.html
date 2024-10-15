@@ -1,0 +1,27 @@
+<div id="body">
+    <h1 id="title">SHOP</h1>
+    <div id="container">
+        <table id="table">
+            <thead>
+                <tr>
+                    <td>Name</td>
+                    <td>Price</td>
+                    <td>Image</td>
+                    <td>Stock</td>
+                    <td>Action</td>
+                </tr>
+            </thead>
+            <tbody>
+                <tr *ngFor="let product of product">
+                    <td>{{ product.name }}</td>
+                    <td>{{ product.price }}</td>
+                    <td><img [src]="product.image" alt="{{ product.name }}" style="width: 100px; height: auto;"></td>
+                    <td>{{ product.stock }}</td>
+                    <td>
+                        <button *ngIf="product.stock > 0">Buy</button>
+                        <button *ngIf="product.stock <= 0" disabled>Out of Stock</button></td>
+                  </tr>
+            </tbody>
+        </table>
+    </div>
+</div>

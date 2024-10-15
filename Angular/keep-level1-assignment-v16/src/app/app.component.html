@@ -1,0 +1,31 @@
+<!-- HeaderComponent to be displayed as part of AppComponent -->
+<app-header></app-header>
+
+<!-- Display error messages -->
+<label class="error-message">{{ errMessage }}</label>
+
+<!-- Expansion panel for adding a new note -->
+<mat-expansion-panel>
+  <mat-expansion-panel-header>
+    <mat-panel-title>Take a note</mat-panel-title>
+  </mat-expansion-panel-header>
+
+  <!-- Form for adding a note -->
+  <form (ngSubmit)="addNote()">
+    <mat-form-field>
+      <input matInput placeholder="Title" [(ngModel)]="note.title" name="title" required>
+    </mat-form-field>
+
+    <mat-form-field>
+      <textarea matInput placeholder="Text" [(ngModel)]="note.text" name="text" required></textarea>
+    </mat-form-field>
+
+    <button mat-raised-button color="primary" type="submit">Add Note</button>
+  </form>
+</mat-expansion-panel>
+
+<!-- Display notes as Material cards -->
+<mat-card *ngFor="let note of notes" class="note-card">
+  <mat-card-title>{{ note.title }}</mat-card-title>
+  <mat-card-content>{{ note.text }}</mat-card-content>
+</mat-card>

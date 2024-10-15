@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Assignments\\Collection Employee Leave\\exercise-collection-employee-leave\\Employee Collection Leave\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D2E29F2-6110-4CDE-AA77-EFF40A11C002}|Employee Collection Leave\\Employee Collection Leave.csproj|c:\\assignments\\collection employee leave\\exercise-collection-employee-leave\\employee collection leave\\employee collection leave\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D2E29F2-6110-4CDE-AA77-EFF40A11C002}|Employee Collection Leave\\Employee Collection Leave.csproj|solutionrelative:employee collection leave\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D2E29F2-6110-4CDE-AA77-EFF40A11C002}|Employee Collection Leave\\Employee Collection Leave.csproj|c:\\assignments\\collection employee leave\\exercise-collection-employee-leave\\employee collection leave\\employee collection leave\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D2E29F2-6110-4CDE-AA77-EFF40A11C002}|Employee Collection Leave\\Employee Collection Leave.csproj|solutionrelative:employee collection leave\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Assignments\\Collection Employee Leave\\exercise-collection-employee-leave\\Employee Collection Leave\\Employee Collection Leave\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee Collection Leave\\Employee.cs",
+              "ToolTip": "C:\\Assignments\\Collection Employee Leave\\exercise-collection-employee-leave\\Employee Collection Leave\\Employee Collection Leave\\Employee.cs",
+              "RelativeToolTip": "Employee Collection Leave\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T06:31:43.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Assignments\\Collection Employee Leave\\exercise-collection-employee-leave\\Employee Collection Leave\\Employee Collection Leave\\Program.cs",
+              "RelativeDocumentMoniker": "Employee Collection Leave\\Program.cs",
+              "ToolTip": "C:\\Assignments\\Collection Employee Leave\\exercise-collection-employee-leave\\Employee Collection Leave\\Employee Collection Leave\\Program.cs",
+              "RelativeToolTip": "Employee Collection Leave\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAACAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T06:25:56.125Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

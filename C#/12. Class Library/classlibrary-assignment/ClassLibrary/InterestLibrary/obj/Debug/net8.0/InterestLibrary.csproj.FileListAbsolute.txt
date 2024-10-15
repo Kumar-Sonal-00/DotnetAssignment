@@ -1,0 +1,11 @@
+C:\Assignments\ClassLibrary\classlibrary-assignment\ClassLibrary\InterestLibrary\bin\Debug\net8.0\InterestLibrary.deps.json
+C:\Assignments\ClassLibrary\classlibrary-assignment\ClassLibrary\InterestLibrary\bin\Debug\net8.0\InterestLibrary.dll
+C:\Assignments\ClassLibrary\classlibrary-assignment\ClassLibrary\InterestLibrary\bin\Debug\net8.0\InterestLibrary.pdb
+C:\Assignments\ClassLibrary\classlibrary-assignment\ClassLibrary\InterestLibrary\obj\Debug\net8.0\InterestLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Assignments\ClassLibrary\classlibrary-assignment\ClassLibrary\InterestLibrary\obj\Debug\net8.0\InterestLibrary.AssemblyInfoInputs.cache
+C:\Assignments\ClassLibrary\classlibrary-assignment\ClassLibrary\InterestLibrary\obj\Debug\net8.0\InterestLibrary.AssemblyInfo.cs
+C:\Assignments\ClassLibrary\classlibrary-assignment\ClassLibrary\InterestLibrary\obj\Debug\net8.0\InterestLibrary.csproj.CoreCompileInputs.cache
+C:\Assignments\ClassLibrary\classlibrary-assignment\ClassLibrary\InterestLibrary\obj\Debug\net8.0\InterestLibrary.dll
+C:\Assignments\ClassLibrary\classlibrary-assignment\ClassLibrary\InterestLibrary\obj\Debug\net8.0\refint\InterestLibrary.dll
+C:\Assignments\ClassLibrary\classlibrary-assignment\ClassLibrary\InterestLibrary\obj\Debug\net8.0\InterestLibrary.pdb
+C:\Assignments\ClassLibrary\classlibrary-assignment\ClassLibrary\InterestLibrary\obj\Debug\net8.0\ref\InterestLibrary.dll

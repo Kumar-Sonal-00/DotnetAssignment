@@ -1,0 +1,14 @@
+C:\Assignments\Hospital Vaccine\hospital_vaccine_assignment\Hospital_Vaccine\Hospital_Vaccine\bin\Debug\net8.0\Hospital_Vaccine.exe
+C:\Assignments\Hospital Vaccine\hospital_vaccine_assignment\Hospital_Vaccine\Hospital_Vaccine\bin\Debug\net8.0\Hospital_Vaccine.deps.json
+C:\Assignments\Hospital Vaccine\hospital_vaccine_assignment\Hospital_Vaccine\Hospital_Vaccine\bin\Debug\net8.0\Hospital_Vaccine.runtimeconfig.json
+C:\Assignments\Hospital Vaccine\hospital_vaccine_assignment\Hospital_Vaccine\Hospital_Vaccine\bin\Debug\net8.0\Hospital_Vaccine.dll
+C:\Assignments\Hospital Vaccine\hospital_vaccine_assignment\Hospital_Vaccine\Hospital_Vaccine\bin\Debug\net8.0\Hospital_Vaccine.pdb
+C:\Assignments\Hospital Vaccine\hospital_vaccine_assignment\Hospital_Vaccine\Hospital_Vaccine\obj\Debug\net8.0\Hospital_Vaccine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Assignments\Hospital Vaccine\hospital_vaccine_assignment\Hospital_Vaccine\Hospital_Vaccine\obj\Debug\net8.0\Hospital_Vaccine.AssemblyInfoInputs.cache
+C:\Assignments\Hospital Vaccine\hospital_vaccine_assignment\Hospital_Vaccine\Hospital_Vaccine\obj\Debug\net8.0\Hospital_Vaccine.AssemblyInfo.cs
+C:\Assignments\Hospital Vaccine\hospital_vaccine_assignment\Hospital_Vaccine\Hospital_Vaccine\obj\Debug\net8.0\Hospital_Vaccine.csproj.CoreCompileInputs.cache
+C:\Assignments\Hospital Vaccine\hospital_vaccine_assignment\Hospital_Vaccine\Hospital_Vaccine\obj\Debug\net8.0\Hospital_Vaccine.dll
+C:\Assignments\Hospital Vaccine\hospital_vaccine_assignment\Hospital_Vaccine\Hospital_Vaccine\obj\Debug\net8.0\refint\Hospital_Vaccine.dll
+C:\Assignments\Hospital Vaccine\hospital_vaccine_assignment\Hospital_Vaccine\Hospital_Vaccine\obj\Debug\net8.0\Hospital_Vaccine.pdb
+C:\Assignments\Hospital Vaccine\hospital_vaccine_assignment\Hospital_Vaccine\Hospital_Vaccine\obj\Debug\net8.0\Hospital_Vaccine.genruntimeconfig.cache
+C:\Assignments\Hospital Vaccine\hospital_vaccine_assignment\Hospital_Vaccine\Hospital_Vaccine\obj\Debug\net8.0\ref\Hospital_Vaccine.dll

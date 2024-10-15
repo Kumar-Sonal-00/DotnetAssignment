@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Assignments\\Sort Product Collection\\sort-product-collection\\SortProductCollection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF00D5E9-1089-45E8-8339-286DEC9509AD}|SortProductCollection\\SortProductCollection.csproj|c:\\assignments\\sort product collection\\sort-product-collection\\sortproductcollection\\sortproductcollection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF00D5E9-1089-45E8-8339-286DEC9509AD}|SortProductCollection\\SortProductCollection.csproj|solutionrelative:sortproductcollection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF00D5E9-1089-45E8-8339-286DEC9509AD}|SortProductCollection\\SortProductCollection.csproj|c:\\assignments\\sort product collection\\sort-product-collection\\sortproductcollection\\sortproductcollection\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF00D5E9-1089-45E8-8339-286DEC9509AD}|SortProductCollection\\SortProductCollection.csproj|solutionrelative:sortproductcollection\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Assignments\\Sort Product Collection\\sort-product-collection\\SortProductCollection\\SortProductCollection\\Product.cs",
+              "RelativeDocumentMoniker": "SortProductCollection\\Product.cs",
+              "ToolTip": "C:\\Assignments\\Sort Product Collection\\sort-product-collection\\SortProductCollection\\SortProductCollection\\Product.cs",
+              "RelativeToolTip": "SortProductCollection\\Product.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAAC8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T11:14:50.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Assignments\\Sort Product Collection\\sort-product-collection\\SortProductCollection\\SortProductCollection\\Program.cs",
+              "RelativeDocumentMoniker": "SortProductCollection\\Program.cs",
+              "ToolTip": "C:\\Assignments\\Sort Product Collection\\sort-product-collection\\SortProductCollection\\SortProductCollection\\Program.cs",
+              "RelativeToolTip": "SortProductCollection\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T11:13:50.337Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
